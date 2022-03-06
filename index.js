@@ -1,1 +1,2 @@
-import "./promise/index.js";
+// import "./promise/index.js";
+import './throttle/index.js'
